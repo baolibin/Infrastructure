@@ -1,8 +1,6 @@
 
 # 分布式系统
 
-* 消息队列
-
-
-
+* [RPC](src/main/java/com/libin/rpc/README.md)
+* [消息队列](src/main/java/com/libin/mq/README.md)
 
