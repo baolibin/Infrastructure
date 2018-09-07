@@ -1,4 +1,4 @@
-package com.libin.base;
+package com.libin.socket;
 
 /**
  * Copyright (c) 2018/09/02. xixi Inc. All Rights Reserved.

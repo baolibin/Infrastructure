@@ -1,4 +1,4 @@
-package com.libin.base;
+package com.libin.socket;
 
 import java.io.*;
 import java.net.ServerSocket;
