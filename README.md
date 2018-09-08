@@ -16,6 +16,8 @@
 
 * [动态代理](src/main/java/com/libin/dynamicproxy)
 
+* REST
+
 * [多线程](src/main/java/com/libin/multithreading)
 
 * [分布式存储](src/main/java/com/libin/storage)
